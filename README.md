@@ -72,9 +72,9 @@ WEBP file format is widely popular. It is accepted by multiple browsers because 
 ## Documentation
 
 **General**
-* [How to install Magento 2 WebP Images Extension](https://magefan.com/magento-2-webp-optimized-images/installation)
-* [How to update Magento 2 WebP Images Extension](https://magefan.com/magento-2-webp-optimized-images/updating)
-* [How to uninstall Magento 2 WebP Images Extension](https://magefan.com/magento-2-webp-optimized-images/uninstalling)
+* [How to install Magento 2 WebP Images Extension?](https://magefan.com/magento-2-webp-optimized-images/installation)
+* [How to update Magento 2 WebP Images Extension?](https://magefan.com/magento-2-webp-optimized-images/updating)
+* [How to uninstall Magento 2 WebP Images Extension?](https://magefan.com/magento-2-webp-optimized-images/uninstalling)
 
 **Configuration**
 * [Are Your Magento Server Configurations Ready for WebP? This is How to Check it.](https://magefan.com/magento-2-webp-optimized-images/how-to-check-webp-server-php-configurations)
