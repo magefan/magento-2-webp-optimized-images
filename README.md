@@ -88,6 +88,7 @@ WEBP file format is widely popular. It is accepted by multiple browsers because 
 Check [this short video](https://www.youtube.com/watch?v=kBgy2grcPuQ) to learn more about how WebP images are loaded during the page scroll.
 
 ## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+  * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Multi Blog Extension](https://magefan.com/magento-2-multi-blog-extension)
