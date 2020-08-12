@@ -66,7 +66,7 @@ Magento 2 WebP Images Extension converts images from PNG,JPG or GIF into WEBP an
 WEBP file format is widely popular. It is accepted by multiple browsers because  of its usefulness. However there are some browsers that haven’t yet integrated it. It is the moment you might think what images will people see coming to your website from those browsers? WebP Images extension for Magento 2 creates the copy of your images in WEBP format and stores it. If someone comes to your website from any of those browsers that don’t support WEBP your original PNG or JPG formats will be loaded.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/webp-multi-browser-feature.webp">
+  <img width="600" height="300" src="https://cm.magefan.com/mf_webp/png/media/archive/webp-multi-browser-feature.webp">
 </p>
 
 ## Documentation
