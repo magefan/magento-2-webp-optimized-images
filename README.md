@@ -92,6 +92,61 @@ WEBP file format is widely popular. It is accepted by multiple browsers because 
 
 Check [this short video](https://www.youtube.com/watch?v=kBgy2grcPuQ) to learn more about how WebP images are loaded during the page scroll.
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Storefront Demo
+      </td>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
+            alt="Magento 2 WebP Images Extension Storefront Demo"
+            height="220"
+          >
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/admin/admin/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 WebP Images Extension Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/">
+          view
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/admin/admin/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
 ## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
