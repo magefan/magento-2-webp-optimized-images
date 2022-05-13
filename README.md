@@ -1,4 +1,7 @@
 # Magento 2 WebP Images Extension
+
+<a href="https://www.comebackalive.in.ua/donate"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
+
 <img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-webp-optimization-extension_1.webp">
