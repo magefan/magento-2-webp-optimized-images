@@ -9,7 +9,7 @@
 [Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images) is the image optimizer extension for Magento 2 that allows you to easily and conveniently convert images from PNG,JPG and GIF formats into modern WEBP. Image optimization is a must for good website performance and WEBP format is a must for good website speed. 
 
 
-<a href="https://magefan.com/magento-2-webp-optimized-images"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-webp-optimized-images"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-webp-optimized-images#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## What is WEBP?
 Those who have been looking for the best ways to optimize the website performance must have heard something about it. WEBP is a modern file format developed by Google and supported by multiple browsers. The reason of the popularity is its size. It is considerably smaller and correspondingly takes less time to load that is especially important for Magento 2 websites with a lot of images.
