@@ -29,12 +29,17 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
-* Improved Website Performance
-* Boosted SEO
-* Increased Traffic
-* Better Customer Retention
-* Reduced Bounce Rates
-* Higher Google Positions
+* [Improve Website Speed and Performance](https://github.com/magefan/magento-2-webp-images#improve-website-speed-and-performance)
+* [Enhance Your SEO Ranking](https://github.com/magefan/magento-2-webp-images#enhance-your-seo-ranking)
+* [Reduce File Size Without Losing Quality](https://github.com/magefan/magento-2-webp-images#reduce-file-size-without-losing-quality)
+* [Convert Images Automatically or Manually](https://github.com/magefan/magento-2-webp-images#convert-images-automatically-or-manually)
+* [Adjust Conversion Settings to Your Requirements](https://github.com/magefan/magento-2-webp-images#adjust-conversion-settings-to-your-requirements)
+* [Convert Images From External Websites](https://github.com/magefan/magento-2-webp-images#convert-images-from-external-websites)
+* [Upload WebP Images to Magento Admin Panel](https://github.com/magefan/magento-2-webp-images#upload-webp-images-to-magento-admin-panel)
+* [Monitor the Conversion Progress](https://github.com/magefan/magento-2-webp-images#monitor-the-conversion-progress)
+* [Provide Smooth Experience Across All Browsers](https://github.com/magefan/magento-2-webp-images#provide-smooth-experience-across-all-browsers)
+* [Convert Images to WebP via REST API Requests](https://github.com/magefan/magento-2-webp-images#convert-images-to-webp-via-rest-api-requests)
+
 
 ## What is WEBP?
 Those who have been looking for the best ways to optimize the website performance must have heard something about it. WEBP is a modern file format developed by Google and supported by multiple browsers. The reason of the popularity is its size. It is considerably smaller and correspondingly takes less time to load that is especially important for Magento 2 websites with a lot of images.
